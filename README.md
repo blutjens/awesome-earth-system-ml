@@ -22,17 +22,14 @@ Photo of climate activists holding a 'THERE IS NO PLANET B' sign by [**Jessica G
 - [**Awesome-awesome**](#awesome-awesome)
 
 ## Atmosphere
-#### Raw
 - [**NCAR CAM**]
 
 ## Climate
 - [**ClimateBench**]
+- [**CMIP6**](google-link)
 
 ## Climate Risk
 - todo
-
-#### Raw
-- [**CMIP6**](google-link)
 
 ## Cryosphere
 - [**MAR**]
@@ -50,19 +47,23 @@ A tree genus classification dataset from 23 cities in US, Canada with Google Str
 A tree genus classification dataset from 23 cities in US, Canada with Google Street View imagery with 2M trees and >300 classes. 
 
 ## Renewables wind and solar
+- [**WiSoSuper: Benchmarking Super-Resolution Methods on Wind and Solar Data**](https://arxiv.org/abs/2109.08770) *(Kurinchi-Vendhan et al.,2022)* \
+ML-ready dataset for superresolution of wind and solar data.
 
 ## Weather
-- [**WeatherBench**]
-- [**ERA5**]
-Used in [1](FourCastNet) and [2](Keysler et al.,)
+- [**WeatherBench: A benchmark dataset for data-driven weather forecasting**](https://github.com/pangeo-data/WeatherBench) *(Rasp et al., 2020)*
+ML-ready dataset for data-driven weather forecasting. Global dataset at 1.4-5.6° spatial and hourly resolution creating images of size 128x256 - 32x64 with 13 vertical nodes, totaling 191GB storage. Includes geopotential, temperature, humidity, wind, potential vorticity, solar radiation, and others. Includes ERA5 and CMIP-MPI-ESM-HR data. Used in [1](https://arxiv.org/abs/2002.00469), [2](https://doi.org/10.1029/2020MS002109), [3](https://doi.org/10.1002/qj.4180), and [4](https://arxiv.org/abs/2008.08626).
+
+- [**ERA5**](https://www.ecmwf.int/en/forecasts/datasets/reanalysis-datasets/era5) *(ECMWF, 2020)*\
+Raw hourly reanalysis estimate of atmospheric, land and oceanic variables. Global, 30km grid, with 137 vertical nodes in the atmosphere, including uncertainties, 1959-present. Used in [FourCastNet](https://arxiv.org/abs/2202.11214) and [Keysler et al., 22](https://rkeisler.github.io/graph_weather/).
 
 ## Wildfire
 
 ## Awesome-awesome
-- [**Awesome Forests**]https://github.com/blutjens/awesome-forests) \
+- [**Awesome Forests**](https://github.com/blutjens/awesome-forests) \
 A curated list of ground-truth forest datasets for the machine learning and forestry community.
 
-- [**Awesome Flood Datasets**]https://github.com/blutjens/awesome-flood-datasets) \
+- [**Awesome Flood Datasets**](https://github.com/blutjens/awesome-flood-datasets) \
 A curated list of ground-truth forest datasets for the machine learning and forestry community.
 
 - [**Awesome satellite imagery datasets**](https://github.com/chrieke/awesome-satellite-imagery-datasets) \
