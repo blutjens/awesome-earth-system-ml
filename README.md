@@ -23,10 +23,13 @@ Photo of climate activists holding a 'THERE IS NO PLANET B' sign by [**Jessica G
 
 ## Atmosphere
 - [**NCAR CAM**]
+Raw
 
 ## Climate
-- [**ClimateBench**]
-- [**CMIP6**](google-link)
+- [**ClimateBench**](https://doi.org/10.1029/2021MS002954) *(Watson-Parris et al., 22)* \
+ML-ready dataset for learning aerosol climate dynamics. Global dataset at 2° spatial and yearly resolution creating images of size 96x144 videos, totaling approx 2GB storage. Includes carbon dioxide, methane, sulfur dioxide, and soot forcings and temperature, diurnal temperature range and precipitation predictors. Includes CMIP6's AerChemMIP, NorESM2, ScenarioMIP, and DAMIP data. Used in [1](https://arxiv.org/abs/2002.00469), [2](https://doi.org/10.1029/2020MS002109), [3](https://doi.org/10.1002/qj.4180), and [4](https://arxiv.org/abs/2008.08626).
+- [**CMIP6**](https://pangeo-data.github.io/pangeo-cmip6-cloud/accessing_data.html#preprocessing-the-cmip6-datasets) *(WCRP, 2019)* \ 
+Raw comprehensive dataset of 100+ climate models under various emission scenarios.
 
 ## Climate Risk
 - todo
@@ -35,7 +38,6 @@ Photo of climate activists holding a 'THERE IS NO PLANET B' sign by [**Jessica G
 - [**MAR**]
 
 ## Land surface, forest, and biodiversity
-- Huber et al.
 - [**Clima Land**]
 
 ## Flood
@@ -73,6 +75,3 @@ A list of more satellite imagery datasets with annotations for deep learning and
 A list of GIS resources.
 
 - todo: add link to dataset list on [conservationtech.directory](https://conservationtech.directory/)
-
-## Attributions
-- Awesome-earth-system-ml contains individual entries from [Awesome satellite imagery datasets](https://github.com/chrieke/awesome-satellite-imagery-datasets) and [Awesome remote sensing change detection](https://github.com/wenhwu/awesome-remote-sensing-change-detection)
