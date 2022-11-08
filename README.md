@@ -6,7 +6,7 @@ Getting started with data science in Earth system modeling. The lack of organize
 This is a wide open and inclusive community. We would very much appreciate if you add your favorite datasets via a pull request or (emailing lutjens at mit [dot] edu).
 
 <img src="figures/race-climate-change-climate-activists-small.jpg" alt="LONDON/ENGLAND – FEBRUARY 22 2020: Black Extinction Rebellion protester holding a 'THERE IS NO PLANET B' sign at the February 2020 March in collaboration with Parents 4 Future by JessicaGirvan on Shutterstock" width="50%">
-Photo of climate activists holding a 'THERE IS NO PLANET B' sign by [**Jessica Girvan**] on [Shutterstock]((https://www.shutterstock.com/image-photo/londonengland-february-22-2020-black-extinction-1654798531))
+Photo of climate activists holding a 'THERE IS NO PLANET B' sign by [**Jessica Girvan**](https://www.dreamstime.com/Jessicagirvan94_info) on [Shutterstock](https://www.shutterstock.com/image-photo/londonengland-february-22-2020-black-extinction-1654798531)
 
 ## Content
 - [**Atmosphere**](#atmosphere)
@@ -22,12 +22,13 @@ Photo of climate activists holding a 'THERE IS NO PLANET B' sign by [**Jessica G
 - [**Awesome-awesome**](#awesome-awesome)
 
 ## Atmosphere
+- [**SP-CAM**]
 - [**NCAR CAM**]
 Raw
 
 ## Climate
 - [**ClimateBench**](https://doi.org/10.1029/2021MS002954) *(Watson-Parris et al., 22)* \
-ML-ready dataset for learning aerosol climate dynamics. Global dataset at 2° spatial and yearly resolution creating images of size 96x144 videos, totaling approx 2GB storage. Includes carbon dioxide, methane, sulfur dioxide, and soot forcings and temperature, diurnal temperature range and precipitation predictors. Includes CMIP6's AerChemMIP, NorESM2, ScenarioMIP, and DAMIP data. Used in [1](https://arxiv.org/abs/2002.00469), [2](https://doi.org/10.1029/2020MS002109), [3](https://doi.org/10.1002/qj.4180), and [4](https://arxiv.org/abs/2008.08626).
+ML-ready dataset for learning climate response to aerosols. Global dataset at 2° spatial and yearly resolution creating images of size 96x144 videos, totaling approx 2GB storage. Includes carbon dioxide, methane, sulfur dioxide, and soot forcings and temperature, diurnal temperature range and precipitation predictors. Includes CMIP6's AerChemMIP, NorESM2, ScenarioMIP, and DAMIP data. Used in [1](https://arxiv.org/abs/2002.00469), [2](https://doi.org/10.1029/2020MS002109), [3](https://doi.org/10.1002/qj.4180), and [4](https://arxiv.org/abs/2008.08626).
 - [**CMIP6**](https://pangeo-data.github.io/pangeo-cmip6-cloud/accessing_data.html#preprocessing-the-cmip6-datasets) *(WCRP, 2019)* \ 
 Raw comprehensive dataset of 100+ climate models under various emission scenarios.
 
