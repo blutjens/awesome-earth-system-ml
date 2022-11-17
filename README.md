@@ -22,6 +22,8 @@ Photo of climate activists holding a 'THERE IS NO PLANET B' sign by [**Jessica G
 - [**Awesome-awesome**](#awesome-awesome)
 
 ## Atmosphere
+- [**SEVIR : A Storm Event Imagery Dataset for Deep Learning Applications in Radar and Satellite Meteorology**](https://sevir.mit.edu/nowcasting) *(Veillette et al., 21)* \
+ML-ready dataset for nowcasting storm events. US dataset of 10,000 weather events that each consist of 384 km x 384 km image sequences spanning 4 hours of time. Contains 5-bands: 3x GOES-16 advanced baseline imager, NEXRAD vertically integrated liquid, and GOES-16 Geostationary Lightning Mapper. Used in [1](https://proceedings.neurips.cc/paper/2020/hash/fa78a16157fed00d7a80515818432169-Abstract.html).
 - [**SP-CAM**]
 - [**NCAR CAM**]
 Raw
