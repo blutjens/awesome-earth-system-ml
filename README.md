@@ -31,6 +31,8 @@ Raw
 ## Climate
 - [**ClimateBench**](https://doi.org/10.1029/2021MS002954) *(Watson-Parris et al., 22)* \
 ML-ready dataset for learning climate response to aerosols. Global dataset at 2° spatial and yearly resolution creating images of size 96x144 videos, totaling approx 2GB storage. Includes carbon dioxide, methane, sulfur dioxide, and soot forcings and temperature, diurnal temperature range and precipitation predictors. Includes CMIP6's AerChemMIP, NorESM2, ScenarioMIP, and DAMIP data. Used in [1](https://arxiv.org/abs/2002.00469), [2](https://doi.org/10.1029/2020MS002109), [3](https://doi.org/10.1002/qj.4180), and [4](https://arxiv.org/abs/2008.08626).
+- [**ClimART: A Benchmark Dataset for Emulating Atmospheric Radiative Transfer in Weather and Climate Models**](https://github.com/RolnickLab/climart) *(Cachay and Ramesh et al., 22)* \
+ML-ready dataset for atmospheric radiative transfer parametrizations. Contains 10M samples from present, pre-industrial, and future climate conditions, based on the Canadian Earth System Model. Used in [1](https://arxiv.org/abs/2111.14671).
 - [**CMIP6**](https://pangeo-data.github.io/pangeo-cmip6-cloud/accessing_data.html#preprocessing-the-cmip6-datasets) *(WCRP, 2019)* \ 
 Raw comprehensive dataset of 100+ climate models under various emission scenarios.
 
