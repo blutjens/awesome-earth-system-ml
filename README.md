@@ -3,7 +3,7 @@
 
 Getting started with data science in Earth system modeling is challenging. The lack of accessible datasets and plethora of evaluation options is one reason why. So, this list of datasets and benchmarks intends to get you started with building machine learning models for analysing dynamical Earth systems.
 
-This is a wide open and inclusive community. We would very much appreciate if you add your favorite datasets via a pull request or (emailing lutjens at mit [dot] edu).
+This is list represents an inclusive community. We would very much appreciate if you add your favorite datasets via a pull request or (emailing lutjens at mit [dot] edu).
 
 <img src="figures/race-climate-change-climate-activists-small.jpg" alt="LONDON/ENGLAND – FEBRUARY 22 2020: Black Extinction Rebellion protester holding a 'THERE IS NO PLANET B' sign at the February 2020 March in collaboration with Parents 4 Future by JessicaGirvan on Shutterstock" width="50%">
 
