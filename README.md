@@ -6,7 +6,10 @@ Getting started with data science in Earth system modeling is challenging. The l
 This is a wide open and inclusive community. We would very much appreciate if you add your favorite datasets via a pull request or (emailing lutjens at mit [dot] edu).
 
 <img src="figures/race-climate-change-climate-activists-small.jpg" alt="LONDON/ENGLAND – FEBRUARY 22 2020: Black Extinction Rebellion protester holding a 'THERE IS NO PLANET B' sign at the February 2020 March in collaboration with Parents 4 Future by JessicaGirvan on Shutterstock" width="50%">
-Photo of climate activists holding a 'THERE IS NO PLANET B' sign by [**Jessica Girvan**](https://www.dreamstime.com/Jessicagirvan94_info) on [Shutterstock](https://www.shutterstock.com/image-photo/londonengland-february-22-2020-black-extinction-1654798531)
+
+Photo of climate activists holding a THERE IS NO PLANET B sign by 
+[**Jessica Girvan**](https://www.dreamstime.com/Jessicagirvan94_info)
+on [Shutterstock](https://www.shutterstock.com/image-photo/londonengland-february-22-2020-black-extinction-1654798531)
 
 ## Content
 - [**Atmosphere and Precipitation**](#atmosphere-and-precipitation)
