@@ -31,7 +31,7 @@ ML-ready dataset for forecasting (nowcasting) storm events. US dataset of 10,000
 - [**CUMULO : A Dataset for Learning Cloud Classes**](https://github.com/FrontierDevelopmentLab/CUMULO) *(Zantedeschi et al., 19)* \
 ML-ready dataset for classification of clouds. Global dataset at 1km spatial and daily resolution for 2008, 2009 and 2016. Includes 300K annotated images with multispectral image (MODIS), radar (CloudSat), and lidar (CLDCLASS and CALIOP). Used in [1](https://arxiv.org/abs/1911.04227).
 
-- [**DSGAN: Fast and accurate learned multiresolution dynamical downscaling for precipitation**](https://github.com/lzhengchun/DSGAN) *(J. Wang et al., 20)* \
+- [**Fast and accurate learned multiresolution dynamical downscaling for precipitation**](https://github.com/lzhengchun/DSGAN) *(J. Wang et al., 20)* \
 ML-ready dataset for superresolution of precipitation. US dataset at 50 and 12km spatial and 3-hourly resolution for 2005 creating ~3K snapshot images at 128x64 and 512x256. Includes WRF RCM simulation from NCEP-R2 climate model. Contains output variables (high-res. precipitation) and input variables (low-res. precipitation, vertically integrated water vapor, sea level pressure, 2m air temperature, and high-res. topography). Evaluates MSE, Jensen-Shannon distance of probability density functions, and extreme precipitation occurences on global and local scale. Used in [1](https://doi.org/10.5194/gmd-14-6355-2021).
 
 - [**SP-CAM**]
