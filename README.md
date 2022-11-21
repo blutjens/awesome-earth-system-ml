@@ -9,11 +9,11 @@ This is a wide open and inclusive community. We would very much appreciate if yo
 Photo of climate activists holding a 'THERE IS NO PLANET B' sign by [**Jessica Girvan**](https://www.dreamstime.com/Jessicagirvan94_info) on [Shutterstock](https://www.shutterstock.com/image-photo/londonengland-february-22-2020-black-extinction-1654798531)
 
 ## Content
-- [**Atmosphere**](#atmosphere)
+- [**Atmosphere and Precipitation**](#atmosphere-and-precipitation)
 - [**Climate**](#climate)
 - [**Climate risk**](#climate-risk)
 - [**Cryosphere**](#cryosphere)
-- [**Land surface, forest, and biodiversity**](#land-surface,-forest,-and-biodiversity)
+- [**Land surface, forest, and biodiversity**](#land-surface-forest-and-biodiversity)
 - [**Flooding**](#flooding)
 - [**Ocean**](#ocean)
 - [**Renewables wind and solar**](#renewables-wind-and-solar)
@@ -27,6 +27,9 @@ ML-ready dataset for nowcasting storm events. US dataset of 10,000 weather event
 
 - [**CUMULO : A Dataset for Learning Cloud Classes**](https://github.com/FrontierDevelopmentLab/CUMULO) *(Zantedeschi et al., 19)* \
 ML-ready dataset for cloud classification. Global dataset at 1km spatial and daily resolution for 2008, 2009 and 2016. Includes 300K annotated images with multispectral image (MODIS), radar (CloudSat), and lidar (CLDCLASS and CALIOP). Used in [1](https://arxiv.org/abs/1911.04227).
+
+- [**DSGAN: Fast and accurate learned multiresolution dynamical downscaling for precipitation**](https://github.com/lzhengchun/DSGAN) *(J. Wang et al., 20)* \
+ML-ready dataset for downscaling precipitation. US dataset at 50 and 12km spatial and 3-hourly resolution for 2005 creating ~3K snapshot images at 128x64 and 512x256. Includes WRF RCM simulation from NCEP-R2 climate model. Contains output variables (high-res. precipitation) and input variables (low-res. precipitation, vertically integrated water vapor, sea level pressure, 2m air temperature, and high-res. topography). Evaluates MSE, Jensen-Shannon distance of probability density functions, and extreme precipitation occurences on global and local scale. Used in [1](https://doi.org/10.5194/gmd-14-6355-2021).
 
 - [**SP-CAM**]
 
@@ -50,15 +53,14 @@ Raw comprehensive dataset of 100+ climate models under various emission scenario
 - [**MAR**]
 
 ## Land surface, forest, and biodiversity
-- [**Clima Land**]
+- [**CESM CLM**]
 
-## Flood
-- [**NEMO: Digital Twin Earth xxx**](https://google.github.io/auto-arborist/) *(Beery et al., 2022)* \
-A tree genus classification dataset from 23 cities in US, Canada with Google Street View imagery with 2M trees and >300 classes. 
+- see [Awesome-awesome](#awesome-awesome) for more forest data.
+
+## Flooding
+- [**NEMO: Digital Twin Earth**]
 
 ## Ocean
-- [**NEMO: Digital Twin Earth xxx**](https://google.github.io/auto-arborist/) *(Beery et al., 2022)* \
-A tree genus classification dataset from 23 cities in US, Canada with Google Street View imagery with 2M trees and >300 classes. 
 
 ## Renewables wind and solar
 - [**WiSoSuper: Benchmarking Super-Resolution Methods on Wind and Solar Data**](https://arxiv.org/abs/2109.08770) *(Kurinchi-Vendhan et al.,2022)* \
@@ -94,4 +96,4 @@ A list of GIS resources.
 - todo: add link to dataset list on [conservationtech.directory](https://conservationtech.directory/)
 
 ## Acknowledgements
-- This list has only been possible to assemble through the extensive input by Duncan Watson Parris.
+- This list has only been possible to assemble through the extensive input by Duncan Watson Parris and Paula Harder.
