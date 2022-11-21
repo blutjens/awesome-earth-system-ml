@@ -1,7 +1,7 @@
 # Awesome-earth-system-ml [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)
 **Awesome-earth-system-ml** is a curated list of datasets from dynamic Earth system models for the climate-interested machine learning community. The list targets data from climate, weather, atmosphere, ocean, flood, cryosphere, or other models and sciences. 
 
-Getting started with data science in Earth system modeling. The lack of organized datasets is one reason why. So, this list of datasets intends to get you started with building machine learning models for analysing dynamical Earth systems.
+Getting started with data science in Earth system modeling is challenging. The lack of accessible datasets and plethora of evaluation options is one reason why. So, this list of datasets and benchmarks intends to get you started with building machine learning models for analysing dynamical Earth systems.
 
 This is a wide open and inclusive community. We would very much appreciate if you add your favorite datasets via a pull request or (emailing lutjens at mit [dot] edu).
 
