@@ -92,3 +92,6 @@ A list of more satellite imagery datasets with annotations for deep learning and
 A list of GIS resources.
 
 - todo: add link to dataset list on [conservationtech.directory](https://conservationtech.directory/)
+
+## Acknowledgements
+- This list has only been possible to assemble through the extensive input by Duncan Watson Parris.
