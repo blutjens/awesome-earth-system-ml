@@ -16,10 +16,11 @@ on [Shutterstock](https://www.shutterstock.com/image-photo/londonengland-februar
 - [**Climate**](#climate)
 - [**Climate risk**](#climate-risk)
 - [**Cryosphere**](#cryosphere)
-- [**Land surface, forest, and biodiversity**](#land-surface-forest-and-biodiversity)
 - [**Flooding**](#flooding)
+- [**Land surface, forest, and biodiversity**](#land-surface-forest-and-biodiversity)
 - [**Ocean**](#ocean)
 - [**Renewables wind and solar**](#renewables-wind-and-solar)
+- [**Scientific machine learning and numerical methods**](#scientific-machine-learning-and-numerical-methods)
 - [**Weather**](#weather)
 - [**Wildfire**](#wildfire)
 - [**Awesome-awesome**](#awesome-awesome)
@@ -38,13 +39,15 @@ ML-ready dataset for superresolution of precipitation. US dataset at 50 and 12km
 
 - [**NCAR CAM**]
 
-
 ## Climate
 - [**ClimateBench**](https://doi.org/10.1029/2021MS002954) *(Watson-Parris et al., 22)* \
 ML-ready dataset for forecasting the climate response to aerosols. Global dataset at 2° spatial and yearly resolution creating images of size 96x144 videos, totaling approx 2GB storage. Includes carbon dioxide, methane, sulfur dioxide, and soot forcings and temperature, diurnal temperature range and precipitation predictors. Includes CMIP6's AerChemMIP, NorESM2, ScenarioMIP, and DAMIP data. Evaluates RMSE. Used in [1](https://arxiv.org/abs/2002.00469), [2](https://doi.org/10.1029/2020MS002109), [3](https://doi.org/10.1002/qj.4180), and [4](https://arxiv.org/abs/2008.08626).
 
 - [**ClimART: A Benchmark Dataset for Emulating Atmospheric Radiative Transfer in Weather and Climate Models**](https://github.com/RolnickLab/climart) *(Cachay and Ramesh et al., 22)* \
 ML-ready dataset for forecasting atmospheric radiative transfer parametrizations. Contains 10M samples from present, pre-industrial, and future climate conditions, based on the Canadian Earth System Model. Used in [1](https://arxiv.org/abs/2111.14671).
+
+- [**PaleoJump: A database for abrupt transitions in past climates**](https://paleojump.github.io/) *(Bagniewski et al., 2022)* \
+Raw dataset for forecasting climatic shocks and analyzing paleoclimate. Global dataset from 123 sites with point data from 4M years ago until present. Includes PANGAEA and NCEI/NOAA datasets. Contains 49 marine-sedient cores, 29 speleothems, 18 lake sediment cores, 16 terrestrial records, and 11 ice cores. Used in [1](https://arxiv.org/abs/2206.06832).
 
 - [**CMIP6**](https://pangeo-data.github.io/pangeo-cmip6-cloud/accessing_data.html#preprocessing-the-cmip6-datasets) *(WCRP, 2019)* \ 
 Raw comprehensive dataset of 100+ climate models under various emission scenarios.
@@ -53,21 +56,29 @@ Raw comprehensive dataset of 100+ climate models under various emission scenario
 - todo
 
 ## Cryosphere
-- [**MAR**]
+- [**MAR**]\
+todo
+
+## Flooding
+- [**NEMO: Digital Twin Earth**]\
+todo
 
 ## Land surface, forest, and biodiversity
-- [**CESM CLM**]
+- [**CESM CLM**]\
+todo
 
 - see [Awesome-awesome](#awesome-awesome) for more forest data.
 
-## Flooding
-- [**NEMO: Digital Twin Earth**]
-
 ## Ocean
+- todo
 
 ## Renewables wind and solar
 - [**WiSoSuper: Benchmarking Super-Resolution Methods on Wind and Solar Data**](https://github.com/RupaKurinchiVendhan/WiSoSuper) *(Kurinchi-Vendhan et al.,2022)* \
 ML-ready dataset for superresolution of wind and solar data. US dataset at 10 and 2km spatial and 4-hourly (wind) and 20 and 4km spatial and hourly resolution (solar) from 2007 to 2018. Includes NREL WIND and NSRDB solar data. Contains output variables (high-res. westward wind velocity, southward wind velocity, direct normal irradiance, diffused horizontal irradiance) and input variables (low-res. bilinearly interpolated version of HR variables). Evaluates RMSE, kinetic energy spectrum, and solar semivariogram. Used in [1](https://doi.org/10.1073/pnas.1918964117), [2](https://arxiv.org/abs/2109.08770).
+
+## Scientific machine learning and numerical methods
+- [**PDEBench: An Extensive Benchmark for Scientific Machine Learning**](https://github.com/pdebench/pdebench) *(Takamoto et al., 2022)* \
+ML-ready dataset for forecasting various PDEs from hydromechanics. Includes 6 basic and 3 advanced problems. The basic PDEs are 1D advection, Burgers, Diffusion-Reaction, Diffusion-Sorption equations and 2D Diffusion-Reaction and Darcy Flow. The advanced PDEs are incompressible Navier-Stokes equations (NSE) and compressible NSE, and shallow-water equations. Evaluates RMSE, normalized RMSE, RMSE on boundary, RMSE of conserved value, RMSEs in low-, mid- or high-pass Fourier space. Used in [1](https://arxiv.org/abs/2210.07182).
 
 ## Weather
 - [**RainBench: Towards Data-Driven Global Precipitation Forecasting from Satellite Imagery**](https://github.com/FrontierDevelopmentLab/PyRain) *(Schroeder de Witt et al., 2021)* \
@@ -99,4 +110,4 @@ A list of GIS resources.
 - todo: add link to dataset list on [conservationtech.directory](https://conservationtech.directory/)
 
 ## Acknowledgements
-- This list has only been possible to assemble through the extensive input by Duncan Watson Parris and Paula Harder.
+- This list has only been possible to assemble through the extensive input by Duncan Watson Parris, Paula Harder, and Fabrizio Falasca.
