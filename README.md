@@ -67,8 +67,11 @@ todo
 todo
 
 ## Land surface, forest, and biodiversity
+- [**EarthNet2021x: Forecasting High-Resolution Earth Multispectral Imagery**](https://www.earthnet.tech/) *(Requena-Mesa et al., 2021)*
+ML-ready dataset for video prediction of land surface dynamics. Germany-centric dataset at 20m spatial and 5-day resolution creating 32K samples images of size 128x128x30 steps, totaling 218GB storage. Contains multispectral satellite imagery, cloud masks, elevation, land cover, rainfall, pressures, and temperatures. Includes Sentinel-2, EU-DEM, E-OBS data. Evaluates MAD, OLS, EMD, and SSIM. Used in [1](https://arxiv.org/abs/2104.10066).
+
 - [**CESM CLM**]\
-todo
+Raw dataset that is a go-to model for global land surface dynamics
 
 - see [Awesome-awesome](#awesome-awesome) for more forest data.
 
